@@ -43,7 +43,7 @@
 // Related Topics 数组 双指针 
 // 👍 1632 👎 0
 
-
+using namespace std;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 public:
@@ -59,3 +59,10 @@ public:
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
+
+int result(){
+    int a[] = {1, 1, 2};
+    vector<int> nums(a, a + 3);
+    Solution s;
+    return s.removeDuplicates(nums);
+}

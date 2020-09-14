@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "editor/cn/[26]删除排序数组中的重复项.cpp"
+#include "[01]Find.cpp"
 
 using namespace std;
 
