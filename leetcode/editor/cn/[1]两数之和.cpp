@@ -44,6 +44,7 @@ public:
         unordered_map<int, int>my_map;
         for(int i=0; i<nums.size(); i++){
             auto iter = my_map.find(target - nums[i]);
+            my_map.swap()
             if(iter != my_map.end()){
                 return {iter->second, i};
             } else {
