@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1092]最短公共超序列.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1092]最短公共超序列.cpp" />
+              <option name="questionId" value="1170" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[128]最长连续序列.cpp">
           <value>
             <LeetcodeEditor>
@@ -67,11 +75,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[144]二叉树的前序遍历.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[144]二叉树的前序遍历.cpp" />
+              <option name="questionId" value="144" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[146]LRU缓存机制.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[146]LRU缓存机制.cpp" />
               <option name="questionId" value="146" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[14]最长公共前缀.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[14]最长公共前缀.cpp" />
+              <option name="questionId" value="14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.cpp" />
+              <option name="questionId" value="155" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -136,6 +168,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[206]反转链表.cpp" />
               <option name="questionId" value="206" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.cpp" />
+              <option name="questionId" value="20" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -259,11 +299,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[32]最长有效括号.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[32]最长有效括号.cpp" />
+              <option name="questionId" value="32" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[334]递增的三元子序列.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[334]递增的三元子序列.cpp" />
               <option name="questionId" value="334" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.cpp" />
+              <option name="questionId" value="344" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -339,6 +395,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[678]有效的括号字符串.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[678]有效的括号字符串.cpp" />
+              <option name="questionId" value="678" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[70]爬楼梯.cpp">
           <value>
             <LeetcodeEditor>
@@ -376,6 +440,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.cpp" />
               <option name="questionId" value="83" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.cpp" />
+              <option name="questionId" value="84" />
             </LeetcodeEditor>
           </value>
         </entry>

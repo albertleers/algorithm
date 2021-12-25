@@ -46,7 +46,9 @@
 //因此，无论怎样，你都不可能绕环路行驶一周。 
 // Related Topics 贪心算法 
 // 👍 391 👎 0
+#include <vector>
 using namespace std;
+
 // 从gas[i]第一个大于cost[i]位置,且累加为正位置 开始
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
